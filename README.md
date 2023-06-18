@@ -1,5 +1,5 @@
 
-[DaoDash Logo (Presentation (169)) (1).pdf](https://github.com/TechieTeee/DaoDash/files/11781727/DaoDash.Logo.Presentation.169.1.pdf)
+![DaoDash Logo](https://github.com/TechieTeee/DaoDash/assets/100870737/0d1cb538-07c0-45f5-a093-ac5e7fb69ae7)
 
 # DaoDash
 The Ultimate Dashboard Solution for Everything Daos
