@@ -31,6 +31,7 @@ Link to Video: https://www.loom.com/share/62635ef54f3d4a92a0e59456018ba0bd?sid=4
 ![image](https://github.com/TechieTeee/DaoDash/assets/100870737/12a33f8a-3a82-4c27-8833-8dcffe4a4009)
 
 # DaoDash Evmos Explorer Link
+https://escan.live/tx/0xa3be3544093e402d001439f083c5a9d91a4a57d49d0ff5e243d830999fe491b1
 
 # Transaction Hash Evmos Chain Mainnet
 0xa3be3544093e402d001439f083c5a9d91a4a57d49d0ff5e243d830999fe491b1
