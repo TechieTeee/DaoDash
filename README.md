@@ -19,7 +19,7 @@ Link to Video: https://www.loom.com/share/62635ef54f3d4a92a0e59456018ba0bd?sid=4
 - Request Network
   - Used for invoicing any ahead-of-schedule payments
   - Before the automated date
-- NextJS + JS + TS + Daisy:
+- NextJS + JS + TS + Daisy + Framer Motion + Tailwind + React-Query:
   - Frontend of Website
  - Wagmi and Rainbow Kit:
     - Web 3 Login
