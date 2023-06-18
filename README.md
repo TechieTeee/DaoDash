@@ -11,7 +11,7 @@ DaoDash is the all-in-one solution for efficient DAO management. With DaoDash, y
 # Background + Demo
 Link to Video: https://www.loom.com/share/62635ef54f3d4a92a0e59456018ba0bd?sid=4b936763-dba8-4d71-963d-801e739e46ef
 
-# Tools Used and How
+# Tools Used and How They Were Used
 - Evmos Chain:
   - Deploy Smart Contracts for the Platform to track dao member productivity, track action items, automate rewards for pay, and also voting power earned through successfully completing tasks
 - Remix IDE Online
