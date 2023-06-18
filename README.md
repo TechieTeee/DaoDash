@@ -1,7 +1,8 @@
+
+[DaoDash Logo (Presentation (169)) (1).pdf](https://github.com/TechieTeee/DaoDash/files/11781727/DaoDash.Logo.Presentation.169.1.pdf)
+
 # DaoDash
 The Ultimate Dashboard Solution for Everything Daos
-
-
 
 # Background + Demo
 Link to Video: 
