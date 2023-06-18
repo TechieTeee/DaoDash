@@ -9,7 +9,7 @@ DaoDash is the all-in-one solution for efficient DAO management. With DaoDash, y
 
 
 # Background + Demo
-Link to Video: 
+Link to Video: https://www.loom.com/share/62635ef54f3d4a92a0e59456018ba0bd?sid=4b936763-dba8-4d71-963d-801e739e46ef
 
 # Tools Used and How
 - Evmos Chain:
