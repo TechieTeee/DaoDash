@@ -1,7 +1,7 @@
 # DaoDash
 The Ultimate Dashboard Solution for Everything Daos
 
-![Landing_Image_ChainShift](https://github.com/TechieTeee/ChainShift/assets/100870737/8ffc0c45-7d9b-4d68-b8f5-d06814257be2)
+
 
 # Background + Demo
 Link to Video: 
