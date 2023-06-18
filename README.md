@@ -4,6 +4,10 @@
 # DaoDash
 The Ultimate Dashboard Solution for Everything Daos
 
+# Summary
+DaoDash is the all-in-one solution for efficient DAO management. With DaoDash, you can effortlessly track productivity, manage finances, and handle memberships in a seamless and integrated platform. Enjoy the benefits of automated payments and optional early payout, empowering your DAO for success. Not only does DaoDash revolutionize traditional DAOs, but it also extends its power to web 3 native companies. Whether you're a web 3 startup or any other innovative venture, DaoDash equips you with the necessary tools to thrive. Benefit from streamlined governance and harness the potential of EVMOS Mainnet. Experience the power of DaoDash to propel your web 3 startup, DAO, or any other business to new heights. Unlock streamlined governance and maximize your potential for success.
+
+
 # Background + Demo
 Link to Video: 
 
